@@ -1,3 +1,0 @@
-C:/Users/vladi/Desktop/OP_LIVE/build/CMakeFiles/main.dir
-C:/Users/vladi/Desktop/OP_LIVE/build/CMakeFiles/edit_cache.dir
-C:/Users/vladi/Desktop/OP_LIVE/build/CMakeFiles/rebuild_cache.dir
